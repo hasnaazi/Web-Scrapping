@@ -1,14 +1,17 @@
-# Analyzing_Kalibr
+# Analyzing_Indeed
 
-# What is Kalibrr?
+# What is Indeed?
 
-<a href="https://www.kalibrr.com/">Kalibrr</a> is a company that provides a platform for worker recruitment. This is motivated by the fact that companies often experience being overwhelmed during the process of recruiting prospective employees.
+<a href="https://id.indeed.com/">Indeed</a> is a job vacancy site visited by 250 million people every month (source: https://id.indeed.com/about). Not only in Indonesia, Indeed is an international company that provides job information in various regions on an international scale.
+
 
 # This Project
 In this project I collected data for Job of Data Analyst in Indonesia. I used this data to answer the following questions.
 
 <ul>1. Where is the most location that open data analyst job vacancy?</ul>
 <ul>2. What is the salary range for data analyst jobs offered?</ul>
+
+This process code can be checked in a file with ipynb format
 
 # My Findings
 <hr>
@@ -32,6 +35,12 @@ The Data Frame consist of 300 rows and 4 columns ("Title","Company","Location","
 <br>This figure is taken from the lowest range offered.
 <br>Some job vacancies do not include a salary range.
 
+<hr size="40px", color="red", width="60%">
+
+# Analyzing_Kalibr
+
+# What is Kalibrr?
+<a href="https://www.kalibrr.com/">Kalibrr</a> is a company that provides a platform for worker recruitment. This is motivated by the fact that companies often experience being overwhelmed during the process of recruiting prospective employees.
 
 
 
